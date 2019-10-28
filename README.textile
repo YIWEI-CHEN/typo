@@ -1,3 +1,5 @@
+My Heroku: https://cryptic-island-04943.herokuapp.com
+
 h1. About Typo
 
 Typo has been around since March of 2005 making it one of the oldest blogging platforms in Rails.
