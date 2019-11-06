@@ -1,5 +1,6 @@
 https://github.com/YIWEI-CHEN/typo
-https://git.heroku.com/cryptic-island-04943.git
+https://cryptic-island-04943.herokuapp.com/ 
+
 ------------------------------
 BDD test log
 ------------------------------
