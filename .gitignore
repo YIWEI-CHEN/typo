@@ -17,7 +17,6 @@ installer/rails_installer.yml
 #/public/stylesheets/theme
 /public/stylesheets/all.css
 tmp/*
-/coverage/
 nbproject
 public/cache/*
 .rbenv-version
